@@ -47,7 +47,7 @@ section{
 }
 
 .screen{
-  width:45%;
+  width:32%;
   max-width:550px;
 }
 .screen1{
@@ -80,10 +80,13 @@ footer{
   height: 100px;
 }
 .vector{
-  height: 70px;
-  align-items: start;
-  margin-bottom: 8%;
-  margin-left: 0%;
+  height: 80px;
+  position: relative;
+  top: 0rem;
+  left: -7rem;
+  margin-bottom: 50px;
+
+
   
 }
 .v-text{
@@ -117,6 +120,10 @@ margin-right: 42%;
     font-size:20px;
   }
 
+  p{
+    font-size:16px;
+  }
+}
   p{
     font-size:16px;
   }
